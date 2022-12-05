@@ -1,0 +1,29 @@
+{
+  "title": "Pegasus Series",
+  "description": "",
+  "artist": "Pegasus",
+  "author": "Pegasus",
+  "cover": "https://i.imgur.com/1e4NEqW_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+  "chapters": {
+    "1": {
+      "title": "Mandrill: The Fall of Shanna",
+      "volume": "1",
+      "last_updated": "1670229492",
+      "groups": {
+        "": [
+          "https://imgur.com/a/JW2DlYx"
+        ]
+      }
+    },
+    "2": {
+      "title": "Mandrill: Escape to Paradise",
+      "volume": "2",
+      "last_updated": "1670229583",
+      "groups": {
+        "": [
+          "https://imgur.com/a/53USrym"
+        ]
+      }
+    }
+  }
+}
